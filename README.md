@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rizul
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on mahajanrizul5@gmail.com
+- 👋 Hi, I’m Rizul Gupta
+- 👀 Currently exploring- Flexbox, Git, Responsive designs.
+- 🌱 I’m currently learning Web Development.
+- 💞️ Love to build projects and solving real-world problems.
+- 📫 You can reach me: mahajanrizul5@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love sleeping
 
