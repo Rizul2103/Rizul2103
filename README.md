@@ -2,7 +2,10 @@
 - 👀 Currently exploring- Flexbox, Git, Responsive designs.
 - 🌱 I’m currently learning Web Development.
 - 💞️ Love to build projects and solving real-world problems.
-- 📫 You can reach me: mahajanrizul5@gmail.com
+- 📫 Let's connect!!:
+-    Emai- mahajanrizul5@gmail.com
+-    Portfolio- file:///C:/Users/USER/OneDrive/Desktop/portfoilo/index.html#
+-    LinkedIn- https://www.linkedin.com/in/rizul-gupta-6a73472b6
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love sleeping
 
