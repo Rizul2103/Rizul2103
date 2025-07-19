@@ -26,7 +26,7 @@
 
 ## 💬 Fun & Facts
 - ⚡ Fun Fact: I *love sleeping* — it’s my superpower 😴  
-- 💬 Pronouns: she/her (You can change this if needed)  
+- 💬 Pronouns: she/her  
 - 📍 Based in: India
 
 ---
