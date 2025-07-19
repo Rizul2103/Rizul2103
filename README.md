@@ -4,7 +4,7 @@
 - 💞️ Love to build projects and solving real-world problems.
 - 📫 Let's connect!!:
 -    Emai- mahajanrizul5@gmail.com
--    Portfolio- file:///C:/Users/USER/OneDrive/Desktop/portfoilo/index.html#
+-    Portfolio- https://github.com/Rizul2103/Rizul-s-portfolio.git
 -    LinkedIn- https://www.linkedin.com/in/rizul-gupta-6a73472b6
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love sleeping
