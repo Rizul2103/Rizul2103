@@ -1,15 +1,34 @@
-- 👋 Hi, I’m Rizul Gupta
-- 👀 Currently exploring- Flexbox, Git, Responsive designs.
-- 🌱 I’m currently learning Web Development.
-- 💞️ Love to build projects and solving real-world problems.
-- 📫 Let's connect!!:
--    Emai- mahajanrizul5@gmail.com
--    Portfolio- https://github.com/Rizul2103/Rizul-s-portfolio.git
--    LinkedIn- https://www.linkedin.com/in/rizul-gupta-6a73472b6
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love sleeping
+# 👋 Hi, I'm Rizul Gupta
 
-<!---
-Rizul2103/Rizul2103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final Year BCA Student | 💻 Aspiring Web Developer.  
+🚀 Currently exploring HTML, CSS, Flexbox, Git & Responsive Designs.  
+💡 Passionate about building real-world projects and creative digital solutions.
+
+---
+
+## 🔧 Tech Stack & Skills
+- 💻 HTML5, CSS3, Javascript
+- Currently learning concepts of Python.
+- 🧠 Problem Solving  
+- 🧩 C / C++  
+- 🤝 Communication & Teamwork  
+
+---
+
+## 🌐 Portfolio & Profiles
+
+- 📧 Email: [mahajanrizul5@gmail.com](mailto:mahajanrizul5@gmail.com)  
+- 🔗 Portfolio: [https://rizul2103.github.io/portfolio](https://rizul2103.github.io/portfolio)  
+- 💼 LinkedIn: [linkedin.com/in/rizul-gupta-6a73472b6](https://linkedin.com/in/rizul-gupta-6a73472b6)  
+- 📸 Instagram: [@rizul_mahajan](https://instagram.com/rizul_mahajan)  
+
+---
+
+## 💬 Fun & Facts
+- ⚡ Fun Fact: I *love sleeping* — it’s my superpower 😴  
+- 💬 Pronouns: she/her (You can change this if needed)  
+- 📍 Based in: India
+
+---
+
+Thanks for visiting! Let's build something awesome together 😊
