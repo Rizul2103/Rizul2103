@@ -20,7 +20,7 @@
 - 📧 Email: [mahajanrizul5@gmail.com](mailto:mahajanrizul5@gmail.com)  
 - 🔗 Portfolio: https://github.com/Rizul2103/Rizul-s-portfolio.git 
 - 💼 LinkedIn: [linkedin.com/in/rizul-gupta-6a73472b6](https://linkedin.com/in/rizul-gupta-6a73472b6)  
-- 📸 Instagram: [@rizul_mahajan](https://instagram.com/rizul_mahajan)  
+- 📸 Instagram: [@rizulmahajan21) 
 
 ---
 
